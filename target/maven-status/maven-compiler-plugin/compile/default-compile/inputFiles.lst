@@ -1,3 +1,4 @@
-c:\cb\jenkins-coverage\code-coverage-jacoco\src\main\java\com\test\CalculateUtils.java
-c:\cb\jenkins-coverage\code-coverage-jacoco\src\main\java\FizzBuzz.java
-c:\cb\jenkins-coverage\code-coverage-jacoco\src\main\java\com\test\MyUnit.java
+/home/abanfi/projects/cb-test-coverage-jenkins/test-project/test-jacoco/src/main/java/FizzBuzz.java
+/home/abanfi/projects/cb-test-coverage-jenkins/test-project/test-jacoco/src/main/java/com/utils/string/CalculateStringUtils.java
+/home/abanfi/projects/cb-test-coverage-jenkins/test-project/test-jacoco/src/main/java/com/utils/MyUnit.java
+/home/abanfi/projects/cb-test-coverage-jenkins/test-project/test-jacoco/src/main/java/com/utils/CalculateUtils.java

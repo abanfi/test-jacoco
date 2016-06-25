@@ -1,8 +1,10 @@
-package com.test;
+package com.utils;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.utils.CalculateUtils;
 
 public class CalculateTest {
 

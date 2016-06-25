@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.test.CalculateTest
+Test set: com.utils.CalculateTest
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.094 sec - in com.test.CalculateTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 sec - in com.utils.CalculateTest
